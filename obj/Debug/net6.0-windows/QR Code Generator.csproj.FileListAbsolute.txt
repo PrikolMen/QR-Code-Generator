@@ -1,0 +1,19 @@
+C:\Users\PrikolMen\source\repos\QR Code Generator\bin\Debug\net6.0-windows\QR Code Generator.exe
+C:\Users\PrikolMen\source\repos\QR Code Generator\bin\Debug\net6.0-windows\QR Code Generator.deps.json
+C:\Users\PrikolMen\source\repos\QR Code Generator\bin\Debug\net6.0-windows\QR Code Generator.runtimeconfig.json
+C:\Users\PrikolMen\source\repos\QR Code Generator\bin\Debug\net6.0-windows\QR Code Generator.dll
+C:\Users\PrikolMen\source\repos\QR Code Generator\bin\Debug\net6.0-windows\QR Code Generator.pdb
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.csproj.AssemblyReference.cache
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR_Code_Generator.Form1.resources
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.csproj.GenerateResource.cache
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.AssemblyInfoInputs.cache
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.AssemblyInfo.cs
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.dll
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\refint\QR Code Generator.dll
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.pdb
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.genruntimeconfig.cache
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\ref\QR Code Generator.dll
+C:\Users\PrikolMen\source\repos\QR Code Generator\bin\Debug\net6.0-windows\QRCoder.dll
+C:\Users\PrikolMen\source\repos\QR Code Generator\obj\Debug\net6.0-windows\QR Code Generator.csproj.CopyComplete
